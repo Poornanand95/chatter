@@ -22,7 +22,6 @@ function Messages() {
     <div className='messages'>
       <Header />
 
-      <Message />
       <div className='messages__list' id='message-list'></div>
       <Footer />
     </div>
